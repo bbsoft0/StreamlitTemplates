@@ -1,0 +1,75 @@
+{
+  "python.pythonPath": "/usr/bin/",
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.fontFamily": "Hasklig",
+  "editor.fontSize": 22,
+  "files.autoSave": "afterDelay",
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.editor.highlightModifiedTabs": true,
+  "explorer.sortOrder": "type",
+  "files.trimFinalNewlines": true,
+  "files.autoGuessEncoding": true,
+  "files.encoding": "windows1252",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "python.languageServer": "Pylance",
+  "python.showStartPage": false,
+  "remote.SSH.remotePlatform": {
+    "164.90.231.167": "linux"
+  },
+  "terminal.external.osxExec": "iTerm.app",
+  "terminal.integrated.shell.osx": "/bin/zsh",
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter-notebook"
+  },
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "terminal.integrated.inheritEnv": false,
+  "terminal.integrated.fontFamily": "monospace",
+  "terminal.integrated.fontSize": 13,
+  "explorer.confirmDelete": false,
+  "jupyter.askForKernelRestart": false,
+  "git.autofetch": true,
+  "gitlens.advanced.messages": {
+    "suppressCreatePullRequestPrompt": true
+  },
+  "diffEditor.renderSideBySide": false,
+  "workbench.editor.enablePreview": false,
+  "jupyter.alwaysTrustNotebooks": true,
+  "settingsSync.ignoredSettings": ["-jupyter.alwaysTrustNotebooks"],
+  "python.defaultInterpreterPath": "C:\\Python310\\python.exe",
+  "notebook.cellToolbarLocation": {
+    "default": "right",
+    "jupyter-notebook": "left"
+  },
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "explorer.confirmDragAndDrop": false,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "workbench.colorTheme": "Visual Studio 2019 Light",
+  "editor.inlineSuggest.enabled": true,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "launch": {
+    "configurations": []
+  },
+  "files.exclude": {
+    "** /bin": true,
+    "** /obj": true
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "path-intellisense.autoSlashAfterDirectory": true,
+  "path-intellisense.showHiddenFiles": true,
+  "typescript.suggest.paths": false,
+  "files.watcherExclude": {
+    "**/.bloop": true,
+    "**/.metals": true,
+    "**/.ammonite": true
+  },
+  "editor.inlineSuggest.showToolbar": "onHover"
+}
