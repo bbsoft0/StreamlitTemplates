@@ -1,7 +1,8 @@
 import requests
 import json
+import streamlit as st
 
-api_key = 'fa3acbe27810dec298f8a2addda4dfaf'
+api_key =  st.secrets["WEATHER_API_KEY"]["key"]
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
 city_name = "Cluj"
 complete_url = base_url + "appid=" + api_key + "&q=" + city_name + "&units=metric"
