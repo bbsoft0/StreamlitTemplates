@@ -18,8 +18,3 @@ Use the templates freely to create interactive data apps in minutes.
 
 ![alt text](https://www.crosstab.io/articles/streamlit-review/worst_case_app.png)
 
-- Apps descriptions 1
-- Apps descriptions 2
-- Apps descriptions 3
-- Apps descriptions 4
-- Apps descriptions 5
